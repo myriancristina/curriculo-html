@@ -1,0 +1,147 @@
+<!Doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Myrian Cristina Silva</title>
+    <!-- CSS only -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <section>
+       <h1>Myrian Cristina Silva</h1>
+       <img class="foto-perfil" src="assets/img/myrianfoto.png">
+    </section>
+    <section>
+        <h2>INFORMAÇÕES PESSOAIS</h2>
+       <ul>
+           <li>Brasileira, solteira</li>
+           <li>32 anos</li>
+        </ul>
+    </section>
+    <section>
+        <h2>INFORMAÇÕES DO CONTATO</h2>
+       <ul>
+           <li>Rua Pedro Mazon, número 59</li>
+           <li>Bairro São Francisco</li>
+           <li>Pires do Rio - GO</li>
+           <li>Telefone: (XX) X XXXX-XXXX</li>
+       </ul>
+    </section>
+    <section>
+       <h2>E-MAIL ELETRÔNICO</h2>
+       <ul>
+       <li>E-mail: myriancristinasilva@hotmail.com</li>
+       </ul>
+    </section>
+    <section>
+    <h2>FORMAÇÃO</h2>
+        <ul>
+           <li>2º Grau Completo, conclusão em 2008.</li>
+           <li>Graduanda em Gestão da Tecnologia da Informação, início de 2019 - em andamento</li>
+           Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Urutaí (GO)         
+        </ul>
+    </section>
+    <section>
+        <h2>EXPERIÊNCIA PROFISSIONAL</h2>
+            <ul>
+            <li><b>01/07/2013 até 12/11/2015</li>
+            SEGIM TORNEADORA LTDA-ME</b>
+            <br> 
+            Cargo: Auxiliar de Escritório
+            <br>
+            Principais atividades: Lançamentos de NFS-E, serviços bancários, contas a pagar e receber, pagamento de funcionários, orçamentos de materiais, 
+            <br>
+            cobrança, atendimento ao cliente, e auxiliar de almoxarifado.
+            <br>
+            <li><b>02/01/2016 até 31/05/2016</li>
+            WB SERVICE - Restauração de Materiais Hospitalares Cirúrgicos</b>
+            <br>
+            Cargo: Auxiliar Administrativo
+            <br>
+            Principais atividades: Execução de ordens de serviços, elaboração de planilhas em Excel, despacho de mercadorias, criação de logomarcas
+            <br>
+            no software CorelDRAW.
+            <li><b>26/07/2016 até 10/09/2017</li>
+            EMPRESA DE CINEMAS MAJESTIC LTDA - LUMIÈRE ARAGUAIA SHOPPING</b>
+            <br>
+            Cargo: Atendente
+            <br>
+            Principais atividades: Atendimento ao cliente, assistente de gerência, fechamento de caixas, lançamento de sangrias, contagem de estoque,
+            <br>
+            e recebimento de mercadorias.
+<br>
+<li><b>02/10/2017 até 08/12/2020</li>
+    SEGIM TORNEADORA LTDA-ME</b>
+    <br> 
+    Cargo: Auxiliar de Escritório
+    <br>
+    Principais atividades: Lançamentos de NFS-E, serviços bancários, contas a pagar e receber, pagamento de funcionários, orçamentos de materiais, 
+    <br>
+    cobrança, atendimento ao cliente, e auxiliar de almoxarifado.
+        </ul>
+        <section>
+            <h2>CURSOS EXTRACURRICULARES</h2>
+                <ul>
+                <li><b>12/11/2012 até 05/03/2013</li>
+                CURSO DE ADMINISTRAÇÃO - PROJOVEM</b>
+                <br>
+                Principais atividades: Inclusão digital, valores humanos, ética e cidadania, educação ambiental, higiene pessoal, promoção da qualidade
+                <br>
+                de vida, noções de direitos trabalhistas, formação de cooperativas, prevenção de acidentes de trabalho e empreendedorismo.
+        </ul>
+        <ul>
+            <li><b>28/09/2018 até 13/10/2018</li>
+            MARKETING DIGITAL PARA EMPREENDEDOR - SEBRAE</b>
+            <br>
+            Principais atividades: O mundo do trabalho, arquivador, almoxarife, auxiliar administrativo.
+            </ul>
+        <ul>
+                <li><b>19/08/2019 até 23/08/2019</li></b>
+                I CONFERÊNCIA DE REDES DE COMPUTADORES DA UEG - MULHERES QUE TRANSFORMAM
+        </ul>
+        <ul>
+            <li><b>09/10/2019 até 10/10/2019</li></b>
+            MINICURSO JAVA COM BANCO DE DADOS
+            </ul>
+        <ul>
+            <li><b>21/10/2020 até 22/10/2020</li></b>
+            MINICURSO INTELIGÊNCIA ARTIFICIAL E SUAS APLICAÇÕES
+        </ul>
+        <ul>
+            <li><b>26/10/2020</li></b>
+            LÓGICA DE PROGRAMAÇÃO ESSENCIAL - 4 HORAS
+        </ul>
+        <ul>
+            <li><b>29/10/2020</li></b>
+            INTRODUÇÃO AO GIT E AO GITHUB - 5 HORAS
+        </ul>
+        <ul>
+            <li><b>04/11/2020</li></b>
+            INTRODUÇÃO A CRIAÇÃO DE WEBSITES COM HTML 5 E CSS3 - 6 HORAS
+        </ul>
+        <ul>
+            <li><b>12/11/2020 até 13/11/2020</li></b>
+            PROJETO PRÁTICO: RECRIANDO A PÁGINA INICIAL DO INSTAGRAM - 2 HORAS
+        </ul>
+        </section>
+        <section>
+            <h2>QUALIFICAÇÕES</h2>
+                <ul>
+                <li><b>31/03/2020 até 01/04/2020</li>
+                ACESSIBILIDADE - INTRODUÇÃO</b> - 10 HORAS               
+        </ul>
+        <ul>
+                <li><b>27/11/2020 até 12/12/2020</li>
+                CURSO DE EXCEL - BÁSICO / INTERMEDIÁRIO / AVANÇADO - NINJA EXCEL</b>
+                <br>
+                Principais atividades: básico, intermediário e avançado, curso dashboards e gráficos avançados, curso de power BI, curso VBA, faixa bônus.
+        </ul>
+    </section>
+</body>
+<!-- JS, Popper.js, and jQuery -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</html>
